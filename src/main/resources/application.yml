@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: kratos
+server:
+  port: 8081
